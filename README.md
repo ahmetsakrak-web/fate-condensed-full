@@ -19,7 +19,7 @@ It can be accessed from https://fate-condensed.herokuapp.com
 fate-condensed
     │── client
     │      └── src
-    │          └── components              # Assets
+    │          └── components              
     │          └── service
     │          └── styles
     │          │    │── appStyles             
@@ -39,8 +39,8 @@ fate-condensed
         │   │── config.js
         │   │── logger.js             
         │   └── middleware.js
-        │── app.js                       # All connections 
-        │── server                       #
+        │── app.js                       
+        │── server                       
         └── Procfile
 ```
 
