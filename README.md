@@ -1,10 +1,11 @@
-# Utility App for Fate Condensed Player
+# Utility App for Fate Condensed Players
 
 
 
 ## Features
+- Accounts creating and deleting
 - Character Sheets can be added, created, updated, deleted
-- Responsive
+- Responsive App
 
 
 ## Online
@@ -82,4 +83,4 @@ npm run dev
 - React & Styled Components
 - MongoDB & Mongoose
 - VSCode
-- And these useful of JavaScript libraries [package.json](package.json)
+- And these useful of JavaScript libraries [package.json](server/package.json)
